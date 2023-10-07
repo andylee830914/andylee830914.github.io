@@ -1,7 +1,7 @@
 ---
 title: 中山應數學術演講
 description: Integrating Python for Seamless Visualization in FreeFEM
-date: 2023-10-19
+date: 2023-10-07
 slug: nsysu-2023
 iframe: main.html
 ---
