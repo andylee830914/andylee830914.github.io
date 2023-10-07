@@ -1,0 +1,35 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-tw'
+title = "Yu-Hsun Lee"
+theme = 'hugo-theme-stack'
+[permalinks]
+post = "/slides/:slug/"
+page = "/:slug/"
+[params]
+mainSections = ["post"]
+[params.article]
+readingTime = false
+showDate = true
+[markup.goldmark.renderer]
+unsafe = true
+[params.sidebar]
+[menu]
+[[menu.social]]
+    name = "Github"
+    url = "https://github.com/andylee830914"
+    identifier = "Github"
+    [menu.social.params]
+        icon = "brand-github"
+[[menu.social]]
+    name = "Twitter"
+    url = "https://twitter.com/andylee830914"
+    identifier = "Twitter"
+    [menu.social.params]
+        icon = "brand-twitter"
+[[menu.social]]
+    name = "Email"
+    url = "mailto:andylee0914.tw@gmail.com"
+    identifier = "Email"
+    [menu.social.params]
+        icon = "messages"
+    
