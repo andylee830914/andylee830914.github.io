@@ -35,6 +35,8 @@ jobs:
         # also change the `main` in `refs/heads/main`
         # below accordingly.
         if: github.ref == 'refs/heads/master'
+        env:
+          TZ: Asia/Taipei
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
