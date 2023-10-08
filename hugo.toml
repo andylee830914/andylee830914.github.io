@@ -33,4 +33,3 @@ unsafe = true
     identifier = "Email"
     [menu.social.params]
         icon = "messages"
-    
