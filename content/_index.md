@@ -9,6 +9,7 @@ menu:
         weight: -100
         params:
             icon: home
+image: banner.jpeg
 ---
 
 I am Lee Yu-Hsun, Kyoto University Doctor of Informatics.
