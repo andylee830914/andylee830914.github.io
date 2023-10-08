@@ -3,6 +3,11 @@ title: 中山應數學術演講
 description: Integrating Python for Seamless Visualization in FreeFEM
 date: 2023-10-19
 slug: nsysu-2023
+links:
+  - title: freefem_webplot
+    description: FreeFEM Web Visualization
+    website: https://freefem.andylee.tw
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 iframe: main.html
 ---
 

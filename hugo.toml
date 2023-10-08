@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'zh-tw'
-timeZone: "Asia/Taipei"
+timeZone = "Asia/Taipei"
 title = "Yu-Hsun Lee"
 theme = 'hugo-theme-stack'
 [permalinks]

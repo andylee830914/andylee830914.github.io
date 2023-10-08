@@ -29,7 +29,7 @@ menu:
 ### Projects
 
 - [萬人布豐投針實驗–即時回報系統](https://piday-2021.web.app/)
-  <br>[The Taiwan Day of Mathematics 2021 - Buffon's Needles Experiment Realtime Report Website.](https://sites.google.com/g2.nctu.edu.tw/taiwan314/2021-萬人實驗企劃?authuser=0)
+  <br>[The Taiwan Day of Mathematics 2021 - Buffon's Needles Experiment Realtime Report Website.](https://sites.google.com/view/taiwan314/過去活動/2021/2021-萬人實驗企劃)
 
 - [TWSIAM 2020 年會資訊系統](https://twsiam2020.emath.tw/)
    <br>TWSIAM 2020 Annual Meeting Information System
