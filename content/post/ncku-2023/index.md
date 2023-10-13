@@ -8,7 +8,7 @@ links:
     description: 課程查詢
     website: https://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0112&sem=1&co_no=J010100&class_code=
     image: https://class-qry.acad.ncku.edu.tw/syllabus/image/nckulogo.png
-# iframe: main.html
+iframe: main.html
 ---
 
 ## 課程用範例程式

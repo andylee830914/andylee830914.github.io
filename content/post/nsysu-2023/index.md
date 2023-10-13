@@ -8,7 +8,7 @@ links:
     description: FreeFEM Web Visualization
     website: https://freefem.andylee.tw
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-iframe: main.html
+iframe: public.html
 ---
 
 ## Abstract

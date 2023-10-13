@@ -171,48 +171,17 @@
     </style>
   </head>
   <body>
-<div class="nb-notebook"><section class="nb-cell nb-code-cell"><div class="nb-source nb-input"><pre><code class="lang-python" data-language="python">!pip install flask</code></pre></div><div class="nb-output"><pre class="nb-stdout">Requirement already satisfied: flask in /usr/local/lib/python3.10/dist-packages (2.2.5)
-Requirement already satisfied: Werkzeug&gt;=2.2.2 in /usr/local/lib/python3.10/dist-packages (from flask) (2.3.7)
-Requirement already satisfied: Jinja2&gt;=3.0 in /usr/local/lib/python3.10/dist-packages (from flask) (3.1.2)
-Requirement already satisfied: itsdangerous&gt;=2.0 in /usr/local/lib/python3.10/dist-packages (from flask) (2.1.2)
-Requirement already satisfied: click&gt;=8.0 in /usr/local/lib/python3.10/dist-packages (from flask) (8.1.7)
-Requirement already satisfied: MarkupSafe&gt;=2.0 in /usr/local/lib/python3.10/dist-packages (from Jinja2&gt;=3.0-&gt;flask) (2.1.3)
-</pre></div></section><section class="nb-cell nb-code-cell"><div class="nb-source nb-input"><pre><code class="lang-python" data-language="python"><span class="hljs-keyword">import</span> os
-<span class="hljs-keyword">import</span> multiprocessing
-<span class="hljs-keyword">from</span> flask <span class="hljs-keyword">import</span> Flask, request
-app = Flask(__name__)
-
-proc = multiprocessing.Process(target=app.run, kwargs=<span class="hljs-built_in">dict</span>(use_reloader=<span class="hljs-literal">False</span>))</code></pre></div></section><section class="nb-cell nb-code-cell"><div class="nb-source nb-input"><pre><code class="lang-python" data-language="python"><span class="hljs-comment"># Define Flask routes</span>
+<div class="nb-notebook"><section class="nb-cell nb-markdown-cell"><p>步驟一：安裝 flask</p>
+</section><section class="nb-cell nb-code-cell"><div class="nb-source nb-input"><pre><code class="lang-python" data-language="python">!pip install flask</code></pre></div></section><section class="nb-cell nb-markdown-cell"><p>步驟二：引入 flask</p>
+</section><section class="nb-cell nb-code-cell"><div class="nb-source nb-input"><pre><code class="lang-python" data-language="python"><span class="hljs-keyword">from</span> flask <span class="hljs-keyword">import</span> Flask, request</code></pre></div></section><section class="nb-cell nb-markdown-cell"><p>步驟三：路由撰寫</p>
+</section><section class="nb-cell nb-code-cell"><div class="nb-source nb-input"><pre><code class="lang-python" data-language="python">app = Flask(__name__)
+<span class="hljs-comment"># Define Flask routes</span>
 <span class="hljs-meta">@app.route(<span class="hljs-params"><span class="hljs-string">&quot;/&quot;</span></span>)</span>
 <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">index</span>():</span>
-    <span class="hljs-keyword">return</span> <span class="hljs-string">&quot;Hello from Colab!123&quot;</span>
-
-<span class="hljs-meta">@app.route(<span class="hljs-params"><span class="hljs-string">&quot;/hello&quot;</span></span>)</span>
-<span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">bighello</span>():</span>
-    <span class="hljs-keyword">return</span> <span class="hljs-string">&quot;&lt;h1&gt;Hello from Colab!&lt;/h1&gt;&quot;</span>
-
-
-<span class="hljs-meta">@app.route(<span class="hljs-params"><span class="hljs-string">&#x27;/add/&lt;int:a&gt;/&lt;int:b&gt;&#x27;</span></span>)</span>
-<span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">add</span>(<span class="hljs-params">a, b</span>):</span>
-    <span class="hljs-keyword">return</span> <span class="hljs-built_in">str</span>(a + b)
-
-<span class="hljs-meta">@app.route(<span class="hljs-params"><span class="hljs-string">&#x27;/value&#x27;</span>, methods=[<span class="hljs-string">&#x27;GET&#x27;</span>]</span>)</span>
-<span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">get_value</span>():</span>
-    <span class="hljs-keyword">return</span> request.args.get(<span class="hljs-string">&#x27;input&#x27;</span>, <span class="hljs-string">&#x27;No input&#x27;</span>)</code></pre></div></section><section class="nb-cell nb-code-cell"><div class="nb-source nb-input"><pre><code class="lang-python" data-language="python">proc.start()
-!ssh  -o <span class="hljs-string">&quot;StrictHostKeyChecking no&quot;</span> -R <span class="hljs-number">80</span>:localhost:<span class="hljs-number">5000</span> serveo.net</code></pre></div><div class="nb-output"><pre class="nb-stdout"> * Serving Flask app '__main__'
- * Debug mode: off
-</pre></div><div class="nb-output"><pre class="nb-stderr">INFO:werkzeug:<span style="color:rgb(187, 0, 0);font-weight:bold">WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.</span>
- * Running on http://127.0.0.1:5000
-INFO:werkzeug:<span style="color:rgb(187, 187, 0)">Press CTRL+C to quit</span>
-</pre></div><div class="nb-output"><pre class="nb-stdout"><span style="color:rgb(0, 187, 0)">Forwarding HTTP traffic from https://astrum.serveo.net
-</span></pre></div><div class="nb-output"><pre class="nb-stderr">INFO:werkzeug:127.0.0.1 - - [23/Sep/2023 06:16:23] &quot;GET /add/100/200 HTTP/1.1&quot; 200 -
-</pre></div><div class="nb-output"><pre class="nb-stdout">HTTP request from 125.227.105.200 to https://astrum.serveo.net/add/100/200
-</pre></div><div class="nb-output"><pre class="nb-stderr">INFO:werkzeug:127.0.0.1 - - [23/Sep/2023 06:16:34] &quot;GET /value?input=123 HTTP/1.1&quot; 200 -
-</pre></div><div class="nb-output"><pre class="nb-stdout">HTTP request from 125.227.105.200 to https://astrum.serveo.net/value?input=123
-HTTP request from 125.227.105.200 to https://astrum.serveo.net/value?input=1232323
-</pre></div><div class="nb-output"><pre class="nb-stderr">INFO:werkzeug:127.0.0.1 - - [23/Sep/2023 06:16:38] &quot;GET /value?input=1232323 HTTP/1.1&quot; 200 -
-</pre></div><div class="nb-output"><pre class="nb-stdout">Connection to serveo.net closed by remote host.
-Connection to serveo.net closed.
-</pre></div></section><section class="nb-cell nb-code-cell"><div class="nb-source nb-input"><pre><code class="lang-python" data-language="python">proc.terminate()</code></pre></div></section><section class="nb-cell nb-code-cell"><div></div></section></div>
+    <span class="hljs-keyword">return</span> <span class="hljs-string">&quot;Hello World&quot;</span></code></pre></div></section><section class="nb-cell nb-markdown-cell"><p>步驟四：啟用 server 及對外連線</p>
+</section><section class="nb-cell nb-code-cell"><div class="nb-source nb-input"><pre><code class="lang-python" data-language="python"><span class="hljs-keyword">import</span> multiprocessing
+proc = multiprocessing.Process(target=app.run, kwargs=<span class="hljs-built_in">dict</span>(use_reloader=<span class="hljs-literal">False</span>))
+proc.start()
+!ssh  -o <span class="hljs-string">&quot;StrictHostKeyChecking no&quot;</span> -R <span class="hljs-number">80</span>:localhost:<span class="hljs-number">5000</span> serveo.net</code></pre></div></section><section class="nb-cell nb-code-cell"><div class="nb-source nb-input"><pre><code class="lang-python" data-language="python">proc.terminate()</code></pre></div></section><section class="nb-cell nb-code-cell"><div></div></section></div>
   </body>
 </html>
