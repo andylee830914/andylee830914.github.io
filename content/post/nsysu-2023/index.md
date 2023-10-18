@@ -4,9 +4,13 @@ description: Integrating Python for Seamless Visualization in FreeFEM
 date: 2023-10-19
 slug: nsysu-2023
 links:
-  - title: freefem_webplot
-    description: FreeFEM Web Visualization
+  - title: FreeFEM webplot
+    description: Demo of FreeFEM Web Visualization
     website: https://freefem.andylee.tw
+    image: https://freefem.andylee.tw/example/example3.png
+  - title: Demo Code
+    description: andylee830914/freefem_pyfem
+    website: https://github.com/andylee830914/freefem_pyfem
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 iframe: public.html
 ---
