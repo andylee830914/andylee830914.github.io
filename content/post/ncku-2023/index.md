@@ -5,10 +5,10 @@ date: 2023-11-21
 slug: ncku-2023
 links:
   - title: 成大課程地圖
-    description: 課程查詢
+    description: 課程大綱
     website: https://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0112&sem=1&co_no=J010100&class_code=
     image: https://class-qry.acad.ncku.edu.tw/syllabus/image/nckulogo.png
-iframe: main.html
+iframe: public.html
 ---
 
 ## 課程用範例程式
@@ -21,4 +21,6 @@ iframe: main.html
   - [線上預覽](lab2_flask.html)
   - [ipynb下載](lab2_flask.ipynb)（右鍵 另存連結）
 
-- 實作三：網頁程式中的資訊安全
+- 範例程式：網頁程式中的資訊安全
+  - [線上預覽](python_rce.html)
+  - [ipynb下載](python_rce.ipynb)（右鍵 另存連結）
