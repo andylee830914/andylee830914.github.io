@@ -2,6 +2,7 @@
 title: 成大「Python 程式設計入門」演講
 description: 網頁程式設計與資訊安全初探
 date: 2023-11-21
+publishDate: 2023-11-19
 slug: ncku-2023
 links:
   - title: 成大課程地圖
