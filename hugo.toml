@@ -3,6 +3,7 @@ languageCode = 'zh-tw'
 timeZone = "Asia/Taipei"
 title = "Yu-Hsun Lee"
 theme = 'hugo-theme-stack'
+buildFuture = true
 [permalinks]
 post = "/slides/:slug/"
 page = "/:slug/"
