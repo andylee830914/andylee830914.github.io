@@ -1,3 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Yu-Hsun Lee</title><link>https://www.andylee.tw/post/</link><description>Recent content in Posts on Yu-Hsun Lee</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://www.andylee.tw/post/index.xml" rel="self" type="application/rss+xml"/><item><title>中山應數學術演講</title><link>https://www.andylee.tw/slides/nsysu-2023/</link><pubDate>Thu, 19 Oct 2023 00:00:00 +0800</pubDate><guid>https://www.andylee.tw/slides/nsysu-2023/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Yu-Hsun Lee</title><link>https://www.andylee.tw/post/</link><description>Recent content in Posts on Yu-Hsun Lee</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Tue, 21 Nov 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://www.andylee.tw/post/index.xml" rel="self" type="application/rss+xml"/><item><title>成大「Python 程式設計入門」演講</title><link>https://www.andylee.tw/slides/ncku-2023/</link><pubDate>Tue, 21 Nov 2023 00:00:00 +0800</pubDate><guid>https://www.andylee.tw/slides/ncku-2023/</guid><description>&lt;h2 id="課程用範例程式">課程用範例程式&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>實作一：基礎 HTTP 認識&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="lab1_http.html" >線上預覽&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="lab1_http.ipynb" >ipynb下載&lt;/a>（右鍵 另存連結）&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>實作二：基礎網頁程式設計&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="lab2_flask.html" >線上預覽&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="lab2_flask.ipynb" >ipynb下載&lt;/a>（右鍵 另存連結）&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>範例程式：網頁程式中的資訊安全&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="python_rce.html" >線上預覽&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="python_rce.ipynb" >ipynb下載&lt;/a>（右鍵 另存連結）&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>中山應數學術演講</title><link>https://www.andylee.tw/slides/nsysu-2023/</link><pubDate>Thu, 19 Oct 2023 00:00:00 +0800</pubDate><guid>https://www.andylee.tw/slides/nsysu-2023/</guid><description>&lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>In this work, we introduce a FreeFEM module that integrates Python with FreeFEM, enhancing the computational capabilities of this platform. With various Python packages developed by the community, performing tasks such as visualization within FreeFEM becomes straightforward. This integration is achieved through pybind11, which allows us to incorporate Python scripts into the FreeFEM dynamic loading module, primarily coded in C++. We will use plotly, a popular web visualization package in Python, as an example to demonstrate how to manipulate FreeFEM data using Python.&lt;/p></description></item><item><title>PyCon TW 2021</title><link>https://www.andylee.tw/slides/pycontw-2021/</link><pubDate>Thu, 09 Sep 2021 00:00:00 +0800</pubDate><guid>https://www.andylee.tw/slides/pycontw-2021/</guid><description>&lt;h2 id="摘要">摘要&lt;/h2>
 &lt;p>在名偵探柯南電影版「戰慄的樂譜」裡，柯南與女高音歌手合力唱歌，利用雙音多頻（DTMF）訊號打電話向外求助。2018年成功大學數學系舉辦了科技部科普活動營隊－數學建模黑客松，在這個活動裡我們搭建了一個科普密室逃脫讓同學解題。最後一道關卡中我們設計了一套謎題，必須經由玩家們合力吹奏直笛。透過3D列印的直笛管吹出正確頻率的組合，將求救訊號輸入到一部鍵盤壞掉的電話機，才能逃脫成功。在這個演講裡我將會介紹我們如何製作這道關卡，以及如何利用樹莓派操作電磁鎖，打造融合 STEAM 教育的密室逃脫活動。&lt;/p></description></item></channel></rss>
