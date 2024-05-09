@@ -19,6 +19,8 @@ menu:
 
 - [Multiple-Precision Arithmetic of Biot-Savart Integrals for Reconnections of Vortex Filaments](https://doi.org/10.1007/978-3-030-86976-2_13)<br>Conference paper. Lee YH., Fujiwara H. (2021) In: Gervasi O. et al. (eds) Computational Science and Its Applications – ICCSA 2021. ICCSA 2021. Lecture Notes in Computer Science, vol 12953. Springer, Cham.
 
+- [Efficient Health Screening: Real-Time Schedule Optimization]()<br>Research Article. Yu-Hsun Lee, Tzu-Wei Chen, Yu-Lin Shih, Chung-Hao Li, and Matthew M. Lin. Annals of Mathematical Sciences and Applications. Accepted at 2023 Dec.
+
 ### Thesis
 
 - Doctor Thesis (2021), [GPU Computing Aiming at Vortex Filament Evolution](https://doi.org/10.14989/doctor.k23544)  

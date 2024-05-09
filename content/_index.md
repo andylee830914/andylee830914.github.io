@@ -32,7 +32,7 @@ Mathematics, Music, and Computer Science are my main interests. I work on web sy
 
 - [**PyCon Taiwan Volunteer**](<https://tw.pycon.org/>)
 
-  - Chair of PyCon TW 2023 Program Committee
+  - (2023 & 2024) Chair of PyCon TW Program Committee
   - (2022 ~ present) PyCon TW Program Committee
   - (2018 ~ present) PyCon TW Review Committe
 
