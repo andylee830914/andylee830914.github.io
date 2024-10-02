@@ -13,13 +13,13 @@ menu:
 
 ### Publications
 
-- [Improvement of Sensitivity of Pooling Strategies for COVID-19](https://doi.org/10.1155/2021/6636396)<br>Research Article. Hong-Bin Chen, Jun-Yi Guo, Yu-Chen Shu, Yu-Hsun Lee, Fei-Huang Chang. Computational and Mathematical Methods in Medicine, vol. 2021. Group Testing Visualization. <br>Demo: [https://www.andylee.tw/covid19](https://www.andylee.tw/covid19)
+- [Efficient Health Screening: Real-Time Schedule Optimization]()<br>Research Article. Yu-Hsun Lee, Tzu-Wei Chen, Yu-Lin Shih, Chung-Hao Li, and Matthew M. Lin. Annals of Mathematical Sciences and Applications. Accepted at 2023 Dec.
 
 - [Web-based visualization framework on FreeFEM](http://www.matsumoto.nuem.nagoya-u.ac.jp/jascome/denshi-journal/21/No-10-211218.pdf)<br>Research Article. Yu-Hsun Lee, Fujiwara Hiroshi. Transactions of the Japan Society for Computational Methods in Engineering, vol. 21. <br>Demo: [https://freefem.andylee.tw](https://freefem.andylee.tw)
 
-- [Multiple-Precision Arithmetic of Biot-Savart Integrals for Reconnections of Vortex Filaments](https://doi.org/10.1007/978-3-030-86976-2_13)<br>Conference paper. Lee YH., Fujiwara H. (2021) In: Gervasi O. et al. (eds) Computational Science and Its Applications – ICCSA 2021. ICCSA 2021. Lecture Notes in Computer Science, vol 12953. Springer, Cham.
+- [Improvement of Sensitivity of Pooling Strategies for COVID-19](https://doi.org/10.1155/2021/6636396)<br>Research Article. Hong-Bin Chen, Jun-Yi Guo, Yu-Chen Shu, Yu-Hsun Lee, Fei-Huang Chang. Computational and Mathematical Methods in Medicine, vol. 2021. Group Testing Visualization. <br>Demo: [https://www.andylee.tw/covid19](https://www.andylee.tw/covid19)
 
-- [Efficient Health Screening: Real-Time Schedule Optimization]()<br>Research Article. Yu-Hsun Lee, Tzu-Wei Chen, Yu-Lin Shih, Chung-Hao Li, and Matthew M. Lin. Annals of Mathematical Sciences and Applications. Accepted at 2023 Dec.
+- [Multiple-Precision Arithmetic of Biot-Savart Integrals for Reconnections of Vortex Filaments](https://doi.org/10.1007/978-3-030-86976-2_13)<br>Conference paper. Lee YH., Fujiwara H. (2021) In: Gervasi O. et al. (eds) Computational Science and Its Applications – ICCSA 2021. ICCSA 2021. Lecture Notes in Computer Science, vol 12953. Springer, Cham.
 
 ### Thesis
 
