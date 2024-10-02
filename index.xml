@@ -26,9 +26,7 @@
 &lt;p>在名偵探柯南電影版「戰慄的樂譜」裡，柯南與女高音歌手合力唱歌，利用雙音多頻（DTMF）訊號打電話向外求助。2018年成功大學數學系舉辦了科技部科普活動營隊－數學建模黑客松，在這個活動裡我們搭建了一個科普密室逃脫讓同學解題。最後一道關卡中我們設計了一套謎題，必須經由玩家們合力吹奏直笛。透過3D列印的直笛管吹出正確頻率的組合，將求救訊號輸入到一部鍵盤壞掉的電話機，才能逃脫成功。在這個演講裡我將會介紹我們如何製作這道關卡，以及如何利用樹莓派操作電磁鎖，打造融合 STEAM 教育的密室逃脫活動。&lt;/p></description></item><item><title>Slides</title><link>https://www.andylee.tw/slides/</link><pubDate>Tue, 28 May 2019 00:00:00 +0800</pubDate><guid>https://www.andylee.tw/slides/</guid><description/></item><item><title>Works</title><link>https://www.andylee.tw/works/</link><pubDate>Tue, 28 May 2019 00:00:00 +0800</pubDate><guid>https://www.andylee.tw/works/</guid><description>&lt;h3 id="publications">Publications&lt;/h3>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a class="link" href="https://doi.org/10.1155/2021/6636396" target="_blank" rel="noopener"
->Improvement of Sensitivity of Pooling Strategies for COVID-19&lt;/a>&lt;br>Research Article. Hong-Bin Chen, Jun-Yi Guo, Yu-Chen Shu, Yu-Hsun Lee, Fei-Huang Chang. Computational and Mathematical Methods in Medicine, vol. 2021. Group Testing Visualization. &lt;br>Demo: &lt;a class="link" href="https://www.andylee.tw/covid19" target="_blank" rel="noopener"
->https://www.andylee.tw/covid19&lt;/a>&lt;/p>
+&lt;p>&lt;a class="link" href="" >Efficient Health Screening: Real-Time Schedule Optimization&lt;/a>&lt;br>Research Article. Yu-Hsun Lee, Tzu-Wei Chen, Yu-Lin Shih, Chung-Hao Li, and Matthew M. Lin. Annals of Mathematical Sciences and Applications. Accepted at 2023 Dec.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a class="link" href="http://www.matsumoto.nuem.nagoya-u.ac.jp/jascome/denshi-journal/21/No-10-211218.pdf" target="_blank" rel="noopener"
@@ -36,11 +34,13 @@
 >https://freefem.andylee.tw&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a class="link" href="https://doi.org/10.1007/978-3-030-86976-2_13" target="_blank" rel="noopener"
->Multiple-Precision Arithmetic of Biot-Savart Integrals for Reconnections of Vortex Filaments&lt;/a>&lt;br>Conference paper. Lee YH., Fujiwara H. (2021) In: Gervasi O. et al. (eds) Computational Science and Its Applications – ICCSA 2021. ICCSA 2021. Lecture Notes in Computer Science, vol 12953. Springer, Cham.&lt;/p>
+&lt;p>&lt;a class="link" href="https://doi.org/10.1155/2021/6636396" target="_blank" rel="noopener"
+>Improvement of Sensitivity of Pooling Strategies for COVID-19&lt;/a>&lt;br>Research Article. Hong-Bin Chen, Jun-Yi Guo, Yu-Chen Shu, Yu-Hsun Lee, Fei-Huang Chang. Computational and Mathematical Methods in Medicine, vol. 2021. Group Testing Visualization. &lt;br>Demo: &lt;a class="link" href="https://www.andylee.tw/covid19" target="_blank" rel="noopener"
+>https://www.andylee.tw/covid19&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a class="link" href="" >Efficient Health Screening: Real-Time Schedule Optimization&lt;/a>&lt;br>Research Article. Yu-Hsun Lee, Tzu-Wei Chen, Yu-Lin Shih, Chung-Hao Li, and Matthew M. Lin. Annals of Mathematical Sciences and Applications. Accepted at 2023 Dec.&lt;/p>
+&lt;p>&lt;a class="link" href="https://doi.org/10.1007/978-3-030-86976-2_13" target="_blank" rel="noopener"
+>Multiple-Precision Arithmetic of Biot-Savart Integrals for Reconnections of Vortex Filaments&lt;/a>&lt;br>Conference paper. Lee YH., Fujiwara H. (2021) In: Gervasi O. et al. (eds) Computational Science and Its Applications – ICCSA 2021. ICCSA 2021. Lecture Notes in Computer Science, vol 12953. Springer, Cham.&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h3 id="thesis">Thesis&lt;/h3>
