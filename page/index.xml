@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Yu-Hsun Lee</title><link>https://www.andylee.tw/page/</link><description>Recent content in Pages on Yu-Hsun Lee</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Tue, 28 May 2019 00:00:00 +0800</lastBuildDate><atom:link href="https://www.andylee.tw/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Slides</title><link>https://www.andylee.tw/slides/</link><pubDate>Tue, 28 May 2019 00:00:00 +0800</pubDate><guid>https://www.andylee.tw/slides/</guid><description/></item><item><title>Works</title><link>https://www.andylee.tw/works/</link><pubDate>Tue, 28 May 2019 00:00:00 +0800</pubDate><guid>https://www.andylee.tw/works/</guid><description>&lt;h3 id="publications">Publications&lt;/h3>
-&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Yu-Hsun Lee</title><link>https://www.andylee.tw/page/</link><description>Recent content in Pages on Yu-Hsun Lee</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Tue, 28 May 2019 00:00:00 +0800</lastBuildDate><atom:link href="https://www.andylee.tw/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Slides</title><link>https://www.andylee.tw/slides/</link><pubDate>Tue, 28 May 2019 00:00:00 +0800</pubDate><guid>https://www.andylee.tw/slides/</guid><description/></item><item><title>Works</title><link>https://www.andylee.tw/works/</link><pubDate>Tue, 28 May 2019 00:00:00 +0800</pubDate><guid>https://www.andylee.tw/works/</guid><description>&lt;h3 id="publications">Publications
+&lt;/h3>&lt;ul>
 &lt;li>
 &lt;p>&lt;a class="link" href="" >Efficient Health Screening: Real-Time Schedule Optimization&lt;/a>&lt;br>Research Article. Yu-Hsun Lee, Tzu-Wei Chen, Yu-Lin Shih, Chung-Hao Li, and Matthew M. Lin. Annals of Mathematical Sciences and Applications. Accepted at 2023 Dec.&lt;/p>
 &lt;/li>
@@ -18,8 +18,8 @@
 >Multiple-Precision Arithmetic of Biot-Savart Integrals for Reconnections of Vortex Filaments&lt;/a>&lt;br>Conference paper. Lee YH., Fujiwara H. (2021) In: Gervasi O. et al. (eds) Computational Science and Its Applications – ICCSA 2021. ICCSA 2021. Lecture Notes in Computer Science, vol 12953. Springer, Cham.&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;h3 id="thesis">Thesis&lt;/h3>
-&lt;ul>
+&lt;h3 id="thesis">Thesis
+&lt;/h3>&lt;ul>
 &lt;li>
 &lt;p>Doctor Thesis (2021), &lt;a class="link" href="https://doi.org/10.14989/doctor.k23544" target="_blank" rel="noopener"
 >GPU Computing Aiming at Vortex Filament Evolution&lt;/a>&lt;/p>
@@ -30,8 +30,8 @@
 &lt;/li>
 &lt;/ul>
 &lt;!-- &lt;br>Demo: [https://vmodel.andylee.tw/visual/](https://vmodel.andylee.tw/visual/) -->
-&lt;h3 id="projects">Projects&lt;/h3>
-&lt;ul>
+&lt;h3 id="projects">Projects
+&lt;/h3>&lt;ul>
 &lt;li>
 &lt;p>&lt;a class="link" href="https://library.math.ncku.edu.tw/" target="_blank" rel="noopener"
 >成大數學系圖書館網站&lt;/a>
