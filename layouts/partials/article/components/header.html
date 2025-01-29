@@ -30,10 +30,18 @@
             </a>
         </div>
     {{ end }}
+
     {{ if .Params.iframe }}
+    {{ with $.Page.Resources.Get $.Params.iframe }}
+    {{ with .Content | resources.FromString (.Path | relLangURL) }}
         <iframe style="border:none;width:100%;aspect-ratio: 16 / 10;display: block;"
-            src="{{ .Params.iframe }}"></iframe>
+            src="{{ .RelPermalink }}"></iframe>
     {{ end }}
+    {{ else }}
+        <iframe style="border:none;width:100%;aspect-ratio: 16 / 10;display: block;" src="{{ .Params.iframe }}"></iframe>
+    {{ end }}
+    {{ end }}
+
 
     {{ partialCached "article/components/details" . .RelPermalink }}
 </header>

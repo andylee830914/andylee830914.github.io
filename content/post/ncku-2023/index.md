@@ -15,13 +15,13 @@ iframe: public.html
 ## 課程用範例程式
 
 - 實作一：基礎 HTTP 認識
-  - [線上預覽](lab1_http.html)
+  - [線上預覽]({{<public "lab1_http.html">}})
   - [ipynb下載](lab1_http.ipynb)（右鍵 另存連結）
 
 - 實作二：基礎網頁程式設計
-  - [線上預覽](lab2_flask.html)
+  - [線上預覽]({{<public "lab2_flask.html">}})
   - [ipynb下載](lab2_flask.ipynb)（右鍵 另存連結）
 
 - 範例程式：網頁程式中的資訊安全
-  - [線上預覽](python_rce.html)
+  - [線上預覽]({{<public "python_rce.html">}})
   - [ipynb下載](python_rce.ipynb)（右鍵 另存連結）
