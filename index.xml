@@ -3,21 +3,27 @@
 &lt;li>
 &lt;p>實作一：基礎 HTTP 認識&lt;/p>
 &lt;ul>
-&lt;li>&lt;a class="link" href="lab1_http.html" >線上預覽&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="
+/post/ncku-2023/lab1_http.html
+" >線上預覽&lt;/a>&lt;/li>
 &lt;li>&lt;a class="link" href="lab1_http.ipynb" >ipynb下載&lt;/a>（右鍵 另存連結）&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
 &lt;p>實作二：基礎網頁程式設計&lt;/p>
 &lt;ul>
-&lt;li>&lt;a class="link" href="lab2_flask.html" >線上預覽&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="
+/post/ncku-2023/lab2_flask.html
+" >線上預覽&lt;/a>&lt;/li>
 &lt;li>&lt;a class="link" href="lab2_flask.ipynb" >ipynb下載&lt;/a>（右鍵 另存連結）&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
 &lt;p>範例程式：網頁程式中的資訊安全&lt;/p>
 &lt;ul>
-&lt;li>&lt;a class="link" href="python_rce.html" >線上預覽&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="
+/post/ncku-2023/python_rce.html
+" >線上預覽&lt;/a>&lt;/li>
 &lt;li>&lt;a class="link" href="python_rce.ipynb" >ipynb下載&lt;/a>（右鍵 另存連結）&lt;/li>
 &lt;/ul>
 &lt;/li>
