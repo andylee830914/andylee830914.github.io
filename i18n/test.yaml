@@ -67,7 +67,7 @@ search:
 
 footer:
     builtWith:
-        other: Build on {{ .Date }} at {{ .Time }} using {{ .Generator }}
+        other: Build on {{ .Now }} using {{ .Generator }}
 
     designedBy:
         other: Theme {{ .Theme }} designed by {{ .DesignedBy }}
