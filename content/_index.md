@@ -14,19 +14,19 @@ showDate: false
 
 I am Lee Yu-Hsun, Kyoto University Doctor of Informatics.
 
-Mathematics, Music, and Computer Science are my main interests. I work on web system development and web-based interactive data visualization.
+Mathematics, Music, and Computer Science are my main interests. I work on web system development and web-based interactive data visualization. I am also interested in GPU computing, high-performance computing, and scientific computing. Currently, I am working on the research of AI for cybersecurity.
 
 ### Tech Stack
 
-![](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
-![](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
-![](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![](https://img.shields.io/badge/-C-05122A?style=flat&logo=C) 
-![](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)  
-![](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django) 
-![](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino) 
-![](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat&logo=raspberry%20pi)
+![python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
+![javascript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![CUDA](https://img.shields.io/badge/CUDA-05122A?logo=nvidia&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)  
+![mysql](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+![arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
+![raspberry pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat&logo=raspberry%20pi)
 
 ### Work Experience
 
