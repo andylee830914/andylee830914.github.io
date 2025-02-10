@@ -1,6 +1,5 @@
 ---
 title: "Works"
-date: 2019-05-28
 layout: single
 showDate: false
 slug: "works"

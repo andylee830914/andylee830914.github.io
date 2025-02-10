@@ -1,6 +1,6 @@
 ---
 title: "Slides"
-date: 2019-05-28
+showDate: false
 layout: "archives"
 slug: "slides"
 menu:

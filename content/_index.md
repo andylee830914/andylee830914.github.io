@@ -2,7 +2,6 @@
 title: About me
 type: _default
 layout: single
-showDate: false
 menu:
     main:
         name: Home
@@ -10,6 +9,7 @@ menu:
         params:
             icon: home
 image: banner.jpeg
+showDate: false
 ---
 
 I am Lee Yu-Hsun, Kyoto University Doctor of Informatics.
@@ -37,11 +37,11 @@ Mathematics, Music, and Computer Science are my main interests. I work on web sy
   - (2022 ~ present) PyCon TW Program Committee
   - (2018 ~ present) PyCon TW Review Committe
 
-- **Associate Research Fellow** (2023.01 ~ present )
+- **Associate Researcher** (2023.01 ~ present )
   <br>National Institute of Cyber Security
-- **Project Assistant Research Fellow** (2022.08 ~ 2023.01)
+- **Project Assistant Researcher** (2022.08 ~ 2023.01)
   <br>Cybersecurity Center of Excellence, National Applied Research Laboratories
-- **Postdoctoral Research Fellow** (2022.02 ~ 2022.07)
+- **Postdoctoral Researcher** (2022.02 ~ 2022.07)
   <br>National Cheng Kung University
 
 ### Education
