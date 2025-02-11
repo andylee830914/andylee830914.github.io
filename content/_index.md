@@ -37,20 +37,20 @@ Mathematics, Music, and Computer Science are my main interests. I work on web sy
   - (2022 ~ present) PyCon TW Program Committee
   - (2018 ~ present) PyCon TW Review Committe
 
-- **Associate Researcher** (2023.01 ~ present )
-  <br>National Institute of Cyber Security
-- **Project Assistant Researcher** (2022.08 ~ 2023.01)
-  <br>Cybersecurity Center of Excellence, National Applied Research Laboratories
-- **Postdoctoral Researcher** (2022.02 ~ 2022.07)
-  <br>National Cheng Kung University
+- **Associate Researcher** (2023.01 ~ present )  
+  National Institute of Cyber Security
+- **Project Assistant Researcher** (2022.08 ~ 2023.01)  
+  Cybersecurity Center of Excellence, National Applied Research Laboratories
+- **Postdoctoral Researcher** (2022.02 ~ 2022.07)  
+  National Cheng Kung University
 
 ### Education
 
-- **Doctor of Informatics** (2018 ~ 2021)<br>
-  Department of Advanced Mathematical Sciences,  <br>
+- **Doctor of Informatics** (2018 ~ 2021)  
+  Department of Advanced Mathematical Sciences,  
   Graduate School of Informatics, Kyoto University
 
-- **Master of Science** (2016 ~ 2018)<br>
+- **Master of Science** (2016 ~ 2018)  
   Institute of Applied Mathematics, National Cheng Kung University
-- **Department of Mathematics** (2012 ~ 2016)<br>
+- **Department of Mathematics** (2012 ~ 2016)  
   National Cheng Kung University
