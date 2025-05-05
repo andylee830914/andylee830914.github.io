@@ -12,8 +12,8 @@ menu:
 
 ### Publications
 
-- [Efficient Health Screening: Real-Time Schedule Optimization]()  
-Research Article. Yu-Hsun Lee, Tzu-Wei Chen, Yu-Lin Shih, Chung-Hao Li, and Matthew M. Lin. Annals of Mathematical Sciences and Applications. Accepted at 2023 Dec.
+- [Efficient Health Screening: Real-Time Schedule Optimization](https://dx.doi.org/10.4310/AMSA.250305063601)  
+Research Article. Yu-Hsun Lee, Tzu-Wei Chen, Yu-Lin Shih, Chung-Hao Li, and Matthew M. Lin. Annals of Mathematical Sciences and Applications, Volume 10 (2025) Number 1.
 
 - [Web-based visualization framework on FreeFEM](http://www.matsumoto.nuem.nagoya-u.ac.jp/jascome/denshi-journal/21/No-10-211218.pdf)  
 Research Article. Yu-Hsun Lee, Fujiwara Hiroshi. Transactions of the Japan Society for Computational Methods in Engineering, vol. 21.   
