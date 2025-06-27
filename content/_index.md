@@ -34,8 +34,8 @@ Mathematics, Music, and Computer Science are my main interests. I work on web sy
 
   - PyCon TW 2025 Chair
   - (2023 & 2024) Chair of PyCon TW Program Committee
-  - (2022 ~ present) PyCon TW Program Committee
-  - (2018 ~ present) PyCon TW Review Committee
+  - (2022) Member of PyCon TW Program Committee
+  - (2018 ~ present) Member of PyCon TW Review Committee
 
 - **Associate Researcher** (2023.01 ~ present )  
   National Institute of Cyber Security
