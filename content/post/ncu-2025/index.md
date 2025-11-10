@@ -1,7 +1,7 @@
 ---
 title: 中正數學學術演講
 description: Generative AI and Cyber Security
-date: 2025-11-10
+date: 2025-11-08
 publishDate: 2025-11-19
 slug: ncu-2025
 links:
