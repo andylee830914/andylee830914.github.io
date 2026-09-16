@@ -12,11 +12,14 @@ menu:
 
 ### Publications
 
+- [LLM-Based Multi-Label Mapping of Snort Rules to ATT&CK](https://doi.org/10.1109/DSC65356.2025.11260863)  
+Research Article. Yu-Hsun Lee and Chansu Han and Min-Chun Peng and Takeshi Takahashi. 2025 IEEE Conference on Dependable and Secure Computing (DSC).
+
 - [Efficient Health Screening: Real-Time Schedule Optimization](https://dx.doi.org/10.4310/AMSA.250305063601)  
 Research Article. Yu-Hsun Lee, Tzu-Wei Chen, Yu-Lin Shih, Chung-Hao Li, and Matthew M. Lin. Annals of Mathematical Sciences and Applications, Volume 10 (2025) Number 1.
 
-- [Web-based visualization framework on FreeFEM](http://www.matsumoto.nuem.nagoya-u.ac.jp/jascome/denshi-journal/21/No-10-211218.pdf)  
-Research Article. Yu-Hsun Lee, Fujiwara Hiroshi. Transactions of the Japan Society for Computational Methods in Engineering, vol. 21.   
+- [Web-based visualization framework on FreeFEM](https://doi.org/10.60443/jascome.21.0_57)  
+Research Article. Yu-Hsun Lee, Hiroshi Fujiwara. Transactions of the Japan Society for Computational Methods in Engineering, vol. 21.   
 Demo: [https://freefem.andylee.tw](https://freefem.andylee.tw)
 
 - [Improvement of Sensitivity of Pooling Strategies for COVID-19](https://doi.org/10.1155/2021/6636396)  
@@ -35,9 +38,6 @@ Conference paper. Lee YH., Fujiwara H. (2021) In: Gervasi O. et al. (eds) Comput
 Demo: [https://vmodel.andylee.tw/visual/](https://vmodel.andylee.tw/visual/) -->
 
 ### Projects
-
-- [成大數學系圖書館網站](https://library.math.ncku.edu.tw/)  
-NCKU Mathematics Department Library Website
 
 - [萬人布豐投針實驗–即時回報系統](https://piday-2021.web.app/)  
 [The Taiwan Day of Mathematics 2021 - Buffon's Needles Experiment Realtime Report Website.](https://sites.google.com/view/taiwan314/過去活動/2021/2021-萬人實驗企劃)
