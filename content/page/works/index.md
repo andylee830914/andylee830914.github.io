@@ -27,7 +27,7 @@ Research Article. Hong-Bin Chen, Jun-Yi Guo, Yu-Chen Shu, Yu-Hsun Lee, Fei-Huang
 Demo: [https://www.andylee.tw/covid19](https://www.andylee.tw/covid19)
 
 - [Multiple-Precision Arithmetic of Biot-Savart Integrals for Reconnections of Vortex Filaments](https://doi.org/10.1007/978-3-030-86976-2_13)  
-Conference paper. Lee YH., Fujiwara H. (2021) In: Gervasi O. et al. (eds) Computational Science and Its Applications – ICCSA 2021. ICCSA 2021. Lecture Notes in Computer Science, vol 12953. Springer, Cham.
+Conference paper. Lee YH., Fujiwara H. (2021) Computational Science and Its Applications – ICCSA 2021. ICCSA 2021. Lecture Notes in Computer Science, vol 12953. Springer, Cham.
 
 ### Thesis
 
