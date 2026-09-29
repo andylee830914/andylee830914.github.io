@@ -13,7 +13,7 @@ menu:
 ### Publications
 
 - [LLM-Based Multi-Label Mapping of Snort Rules to ATT&CK](https://doi.org/10.1109/DSC65356.2025.11260863)  
-Research Article. Yu-Hsun Lee and Chansu Han and Min-Chun Peng and Takeshi Takahashi. 2025 IEEE Conference on Dependable and Secure Computing (DSC).
+Conference paper. Yu-Hsun Lee and Chansu Han and Min-Chun Peng and Takeshi Takahashi. 2025 IEEE Conference on Dependable and Secure Computing (DSC).
 
 - [Efficient Health Screening: Real-Time Schedule Optimization](https://dx.doi.org/10.4310/AMSA.250305063601)  
 Research Article. Yu-Hsun Lee, Tzu-Wei Chen, Yu-Lin Shih, Chung-Hao Li, and Matthew M. Lin. Annals of Mathematical Sciences and Applications, Volume 10 (2025) Number 1.
